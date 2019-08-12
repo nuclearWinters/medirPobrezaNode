@@ -1,0 +1,30 @@
+[
+    {
+        "ID": "#UUID1",
+        "Activo": true,
+        "Titulo": "¿Qué es una pregunta?",
+        "Tipo": "Check",
+        "Opciones": ["Alto", "Medio", "Bajo"]
+    },
+    {
+        "ID": "#UUID2",
+        "Activo": true,
+        "Titulo": "¿Qué es una encuesta?",
+        "Tipo": "Check",
+        "Opciones": ["Alto", "Medio", "Bajo"]
+    },
+    {
+        "ID": "#UUID3",
+        "Activo": true,
+        "Titulo": "¿Qué es una incognita?",
+        "Tipo": "Check",
+        "Opciones": ["Alto", "Medio", "Bajo"]
+    },
+    {
+        "ID": "#UUID4",
+        "Activo": false,
+        "Titulo": "¿Qué es una error?",
+        "Tipo": "Check",
+        "Opciones": ["Alto", "Medio", "Bajo"]
+    }
+]
