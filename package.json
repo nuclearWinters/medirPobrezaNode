@@ -12,7 +12,7 @@
     "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
     "json2csv": "^4.5.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^2.2.0",
     "mssql": "^5.1.0"
   }
